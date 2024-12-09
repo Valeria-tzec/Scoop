@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "Manager1",
+    "Clave": "123",
+    "Role": "Manager"
+  },
+  {
+    "Nombre": "Employee1",
+    "Clave": "321",
+    "Role": "Employee"
+  },
+  {
+    "Nombre": "Employee2",
+    "Clave": "123",
+    "Role": "Employee"
+  }
+]
