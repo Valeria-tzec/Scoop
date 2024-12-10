@@ -1,0 +1,74 @@
+[
+  {
+    "Code": "Limon",
+    "Producto": "Limon",
+    "Precio":90.0,
+    "Cant":13
+  },
+  {
+    "Code": "Chocolate",
+    "Producto": "Chocolate",
+    "Precio":85.0,
+    "Cant":12
+  },
+  {
+    "Code": "Vainilla",
+    "Producto": "Vainilla",
+    "Precio":90.0,
+    "Cant":12
+  },
+  {
+    "Code": "Fresa",
+    "Producto": "Fresa",
+    "Precio": 100.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Taro",
+    "Producto": "Taro",
+    "Precio": 100.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Dulce de Leche",
+    "Producto": "Dulce de leche",
+    "Precio": 90.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Pistache",
+    "Producto": "Pistache",
+    "Precio": 98.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Vino tinto",
+    "Producto": "Vino tinto",
+    "Precio": 90.0,
+    "Cant": 10
+  },
+  {
+    "Code": "Caramelo",
+    "Producto": "Caramelo",
+    "Precio": 100.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Coco",
+    "Producto": "Coco",
+    "Precio": 90.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Lotus",
+    "Producto": "Lotus",
+    "Precio": 120.0,
+    "Cant": 12
+  },
+  {
+    "Code": "Cookies and Cream",
+    "Producto": "CookiesCream",
+    "Precio": 110.0,
+    "Cant": 12
+  }
+]

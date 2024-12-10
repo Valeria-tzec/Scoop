@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "Credit",
+    "Account": 123,
+    "Amount": 778.0,
+    "NIP": 4567
+  },
+  {
+    "Type": "Debit",
+    "Account": 1234,
+    "Amount": 24.0,
+    "NIP": 2531
+  },
+  {
+    "Type": "Debit",
+    "Account": 12345,
+    "Amount": 462.8,
+    "NIP": 3476
+  }
+]
